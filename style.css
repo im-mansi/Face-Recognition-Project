@@ -1,0 +1,137 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: url('https://source.unsplash.com/random/900×700/?computer');
+  background-size: cover;
+}
+.wrapper{
+  display: grid;
+  background: url('https://source.unsplash.com/random/900×700/?computer');
+  background-size: cover;
+  place-items: center;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 3px;
+  width: 100%;
+  height: 100vh;
+}
+.wrapper .content{
+  background: red;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+.content a{
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  display: block;
+  margin: 0;
+}
+.content a:hover{
+  border: 2px dashed white;
+}
+#Attendance {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+  }
+  
+  #Attendance td, #Attendance th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #Attendance tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #Attendance tr:hover {background-color: #ddd;}
+  
+  #Attendance th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: red;
+    color: white;
+  }
+  
+  #addStudents{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+
+  }
+  
+  #addStudents td, #addStudents th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #addStudents tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #addStudents tr:hover {background-color: #ddd;}
+  
+  #addStudents th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: red;
+    color: white;
+  }
+  
+  input[type="text"],input[type="email"]{
+   font-family:'Open Sans';
+   width:100%;
+   height:25px;
+   color:#333;
+   border:1px solid #236;
+   padding:20px;
+   outline: none;
+   font-size: 16px;
+  }
+
+input[type="submit"]{
+    border:0;
+    background:#235;
+    padding: 7.5px;
+    color:#eee;
+    float: right;
+    cursor:pointer;
+}
+
+input[type="date"]{
+  border: 0px;
+  padding: 7px;
+  outline: none;
+  background:#235;
+  color:#eee;
+  outline: none;
+  cursor:pointer;
+}
+
+input[type="file"]{
+  border: 0px;
+  padding: 3px;
+  outline: none;
+  background:#235;
+  color:#eee;
+  outline: none;
+  cursor:pointer;
+}
+
+#img-preview {
+  display: none; 
+  width: 155px;   
+  margin-bottom: 20px;
+}
+#img-preview img {  
+  width: 100%;
+  height: auto; 
+  display: block;   
+}
