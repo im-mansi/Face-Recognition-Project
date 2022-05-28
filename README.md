@@ -30,14 +30,16 @@ Here I have explained the working of this project:-
 
 ![3](https://user-images.githubusercontent.com/106331449/170530714-61fe88eb-2696-4828-a0a8-22b4c5ecfa24.jpg)
 
-![4](https://user-images.githubusercontent.com/106331449/170531270-56401ba6-4ab6-48cb-ab79-81107c75603e.jpg)
+![1](https://user-images.githubusercontent.com/106331449/170815954-dece1b6d-1f5a-4101-a5a7-e58825b063b7.png)
 
-![5](https://user-images.githubusercontent.com/106331449/170530874-bc5d25a2-ffdd-433c-946d-18748ade3d9e.jpg)
+![2](https://user-images.githubusercontent.com/106331449/170815961-6cea6f70-55d0-44a9-977c-5ffe849e1204.jpg)
 
-![6](https://user-images.githubusercontent.com/106331449/170530885-e3f032ab-cf7d-4456-9e93-8308cd4c2a17.jpg)
+![3](https://user-images.githubusercontent.com/106331449/170815970-1a7f3a40-83eb-4414-bc62-faf2c35442b6.jpg)
 
-![7](https://user-images.githubusercontent.com/106331449/170530894-982a8449-d8a6-45a0-b3b3-49afed3d6459.jpg)
+![4](https://user-images.githubusercontent.com/106331449/170815976-c8a81f46-f1e3-4008-9468-88c7a3030c29.jpg)
 
-![8](https://user-images.githubusercontent.com/106331449/170530912-7bd9d34e-2213-4d88-ba82-50c7eb766d86.jpg)
+![5](https://user-images.githubusercontent.com/106331449/170815981-4f0c0888-c2a6-4562-aea8-32123d89ce7b.jpg)
 
-![9](https://user-images.githubusercontent.com/106331449/170530931-9ad9be43-12d8-4006-abfd-135e9fa8a4fd.jpg)
+![6](https://user-images.githubusercontent.com/106331449/170815986-5b7f698c-031f-4a9b-8f4e-d4bb6f3c8c65.jpg)
+
+![7](https://user-images.githubusercontent.com/106331449/170815991-1c3637d5-0de2-4768-bd48-cc10648db5c6.jpg)
