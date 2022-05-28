@@ -10,10 +10,10 @@
   </head>
   <body>
     <div class="wrapper">
-  
-        <div class="content content1"><a href="addStudents.php">Register</a></div>
-        <div class="content content1"><a href="attendance.php">Check Attendance</a></div>
-        <div class="content content1"><a href="logout.php">Logout</a></div>
+    <div class="child">
+        <a href="login.php">Login</a>
+        <a href="addStudents.php">Register</a>
+    </div>
     </div>
   </body>
 </html>
