@@ -1,7 +1,7 @@
 # Face-Recognition-Project
 
 
-Good MOrning Everyone I am Mansi,
+Hello Everyone I am Mansi,
 Here I have explained the working of this project:-
 
 1. I have created this application in Python as well as used PHP for web application.
